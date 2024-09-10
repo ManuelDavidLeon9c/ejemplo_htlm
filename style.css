@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(23, 63, 77); 
+}
+a :hover{color:black }
+p {
+    color:blue
+}
+blockquote{
+    color:tomato 
+}
+h2{
+    font-size:40px
+}

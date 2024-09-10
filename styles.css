@@ -1,0 +1,34 @@
+h1{
+    padding:50px;
+    color:darkblue;
+}
+p{
+    border:3px solid salmon ;
+}
+body{
+    background-color: blueviolet;
+    background-repeat:no-repeat ; 
+    background-size: 100% 100% ;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/179/755/591/abstract-blue-gradient-linux-wallpaper-preview.jpg");    
+}
+a{
+    color:blue;
+}
+table, th, td {
+    border:1px solid black;
+}
+div {
+    width: 300px;   
+    margin: 0 auto;  
+    background-color: #D9EEE1;
+    padding: 10px;  
+    text-align: center; 
+}
+header {
+    background-color: purple;
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    background-color: aqua;
+}
